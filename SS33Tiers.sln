@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS33Tiers.Api", "SS33Tiers.Api\SS33Tiers.Api.csproj", "{2EC44764-7B24-4176-AC2B-1060ADD92B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS33Tiers.Web", "SS33Tiers.Web\SS33Tiers.Web.csproj", "{96EEF3FB-2BEB-4A33-A3FF-349E7DBA201C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC44764-7B24-4176-AC2B-1060ADD92B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC44764-7B24-4176-AC2B-1060ADD92B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC44764-7B24-4176-AC2B-1060ADD92B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC44764-7B24-4176-AC2B-1060ADD92B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EEF3FB-2BEB-4A33-A3FF-349E7DBA201C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EEF3FB-2BEB-4A33-A3FF-349E7DBA201C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EEF3FB-2BEB-4A33-A3FF-349E7DBA201C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EEF3FB-2BEB-4A33-A3FF-349E7DBA201C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D2804C-C540-448C-A200-36D4FC2A9323}
+	EndGlobalSection
+EndGlobal

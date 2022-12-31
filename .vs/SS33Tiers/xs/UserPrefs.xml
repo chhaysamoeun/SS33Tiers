@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.SS33Tiers.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SS33Tiers.Api/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="SS33Tiers.Web/Views/Employee/Index.cshtml" Line="104" Column="20" />
+      <File FileName="SS33Tiers.Api/Program.cs" />
+      <File FileName="SS33Tiers.Web/Views/Employee/Create.cshtml" Line="76" Column="48" />
+      <File FileName="SS33Tiers.Api/Controllers/EmployeeController.cs" Line="52" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SS33Tiers" expanded="True">
+            <Node name="SS33Tiers.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="SS33Tiers.Web" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SS33Tiers.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{2EC44764-7B24-4176-AC2B-1060ADD92B9B}" ItemName="SS33Tiers.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{96EEF3FB-2BEB-4A33-A3FF-349E7DBA201C}" ItemName="SS33Tiers.Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
